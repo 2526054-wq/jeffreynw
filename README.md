@@ -1,5 +1,6 @@
 # jeffreynw
-Limbus Company Guide For Dummies (you can also buy to  play Library  Of Ruina or Lobotomy Corporation If You Wanted To)
+Limbus Company Guide For Dummies 
+you can also buy to  play Library  Of Ruina or Lobotomy Corporation If You Wanted To
 <img width="480" height="312" alt="giphy" src="https://github.com/user-attachments/assets/965ba02d-e10b-48c2-acee-7088a20039bc" />
 #
 <img width="480" height="292" alt="giphy" src="https://github.com/user-attachments/assets/ff90e9b0-50e9-4ba4-ba77-232f528dcf0c" />
@@ -28,4 +29,19 @@ what are coin? they are the rng used to clash enemy there are 2 coin that can be
 >Third Step Is About Leveling Up Your Id
 each sinner have different skill some of them is almost the same like their counter part from lv 1 they will do less damage and low clash power but the more level they gain the more damage and clash power (works with evade too)
 #
-> how to gain exp? well you gonna need atleast some enkepelahim module 
+> how to gain exp? well you gonna need atleast some enkephalin module
+require 3 fo do a 100% and 6 to skip but give 50%
+
+>Events
+they are a unique event that the game had sometime they rerun those event in the event you can grind for some good rewards
+you can get 20x pull,and a 000 id for 1000P
+
+
+>end game (MDE)
+on the end game phase mostly waiting for new canto you might have some id with uptie 4 and 1 or all ego on max uptie too during this phase what you need to do is
+Grind MD or MDI (Infinity) or MDE (EXTREME)
+hidden boss also can be found on MDE they are kinda hard but they gift are good
+
+
+
+>Thats All See ya!
