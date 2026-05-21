@@ -1,43 +1,115 @@
-# jeffreynw
-Limbus Company Guide For Dummies  
-you can also buy to  play Library  Of Ruina or Lobotomy Corporation If You Wanted To (cost)
-#
-> First Step is to understand how the game works
- you need to understand the game mechanic
-remember read the enemy passive before duing clashes
-it can help a lot even on mirror dungeon,railway,story
-you gonna do this if you stuck on canto 4 4-48
-#
-> Uptie an id
-on this phase you need to uptie any ID0|00|000 On Uptie III You Unlocked Their S3 and S3-2 with the exception of big brother Heathcliff You Gonnaa Need Uptie IV for his S3-2 TOTAL AND COMPLETE EXTERMINATION
-Any Id that is 00 is good but some of it is bad
-000 Is also mostly good but some of them will become useless soon for example Sunshower Heathcliff
-ego also work like id but you gonna need to use some skill until the requirement are meet they also can corroded wich cost 1.4 time more and they can do less or more damage
-ego have class from zayin,teth,he,waw,aleph
-now there are lot of teth/he ego and waw are usually from season or event and some ego can be get from event only (for example tidal wave ishmael he ego wich is a collaberation ego with arknight now you can get it with the 3 more ego for hong lu,faust and gregor)
-some ego can be used for healing,shield,debuff
-#
-> Second Step Is About Coins
-what are coin? they are the rng used to clash enemy there are 2 coin that can be used by an id wich is normal and red (unbreakble)
-> how does it work? for normal one it can roll head wich double the power from 10>14 the more coin it had the better for example S3 had 4 coin and it had 10 power after it roll 4 head it become 23 power wich can win most clash but they can break if enemy have more clash power but if it an unbreakble coin it work the same like normal one but they cannot break they also reuse skill if failed to win a clash the most red coin is 9 wich is S3-2 Index NurseFather Yi-Sang and for the enemy is lei heng (count does not count)
->  there are also special coin like purple and green what they do? purple can erase a red coin but green one get more clash power the more red coin his enemy had
-#
-> Third Step Is About Leveling Up Your Id
-each sinner have different skill some of them is almost the same like their counter part from lv 1 they will do less damage and low clash power but the more level they gain the more damage and clash power (works with evade too)
-#
-> how to gain exp? well you gonna need atleast some enkephalin module
-require 3 fo do a 100% and 6 to skip but give 50%
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Limbus Company Guide For Dummies</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #1a1a1a;
+            color: #e0e0e0;
+        }
+        h1 {
+            color: #ff4500;
+            border-bottom: 2px solid #ff4500;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #d3d3d3;
+            margin-top: 30px;
+        }
+        blockquote {
+            background-color: #2a2a2a;
+            border-left: 5px solid #ff4500;
+            padding: 10px 20px;
+            margin: 15px 0;
+            font-style: italic;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .highlight {
+            color: #ffd700;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
 
-> Events
-they are a unique event that the game had sometime they rerun those event in the event you can grind for some good rewards
-you can get 20x pull,and a 000 id for 1000P
+    <h1># jeffreynw</h1>
+    <p class="highlight">Limbus Company Guide For Dummies</p>
+    <p>You can also buy to play <em>Library Of Ruina</em> or <em>Lobotomy Corporation</em> if you wanted to (cost).</p>
 
+    <hr>
 
-> end game (MDE)
-on the end game phase mostly waiting for new canto you might have some id with uptie 4 and 1 or all ego on max uptie too during this phase what you need to do is
-Grind MD or MDI (Infinity) or MDE (EXTREME)
-hidden boss also can be found on MDE they are kinda hard but they gift are good
+    <blockquote>
+        <strong>First Step is to understand how the game works</strong>
+    </blockquote>
+    <p>You need to understand the game mechanic. Remember to read the enemy passive before doing clashes. It can help a lot even on Mirror Dungeon, Railway, and Story. You are definitely gonna do this if you get stuck on Canto IV (4-48).</p>
 
+    <hr>
 
+    <blockquote>
+        <strong>Uptie an ID</strong>
+    </blockquote>
+    <p>On this phase, you need to uptie any ID (0 | 00 | 000). On Uptie III, you unlocked their S3 and S3-2 with the exception of Big Brother Heathcliff—you are gonna need Uptie IV for his S3-2 (TOTAL AND COMPLETE EXTERMINATION).</p>
+    <p>Any ID that is 00 is good, but some of them are bad. 000 is also mostly good, but some of them will become useless soon (for example: Sunshower Heathcliff).</p>
+    <p>E.G.O also works like an ID, but you are gonna need to use some skills until the requirements are met. They can also corrode, which costs 1.4 times more, and they can do less or more damage. E.G.O classes range from ZAYIN, TETH, HE, WAW, to ALEPH.</p>
+    <p>Now there are a lot of TETH/HE E.G.O. WAW are usually from seasons or events, and some E.G.O can only be obtained from events (for example: Tidal Wave Ishmael HE E.G.O, which is a collaboration E.G.O with Arknights. Now you can get it along with 3 more E.G.O for Hong Lu, Faust, and Gregor).</p>
+    <p>Some E.G.O can be used for healing, shields, or debuffs.</p>
 
-> Thats All See ya!
+    <hr>
+
+    <blockquote>
+        <strong>Second Step Is About Coins</strong>
+    </blockquote>
+    <p>What are coins? They are the RNG used to clash enemies. There are 2 coins that can be used by an ID, which are normal and red (unbreakable).</p>
+    
+    <blockquote>
+        <strong>How does it work?</strong>
+    </blockquote>
+    <p>For the normal one, it can roll Heads, which doubles the power from 10 &gt; 14. The more coins it has, the better. For example, an S3 has 4 coins and it has 10 base power; after it rolls 4 Heads, it becomes 23 power, which can win most clashes. However, they can break if the enemy has more clash power.</p>
+    <p>If it is an unbreakable coin, it works the same as a normal one, but it cannot break. They also reuse the skill if they fail to win a clash. The most red coins available is 9, which belongs to S3-2 Index NurseFather Yi-Sang, and for the enemy, it is Lei Heng (count does not count).</p>
+    <p>There are also special coins like purple and green. What do they do? Purple can erase a red coin, while the green one gets more clash power the more red coins its enemy has.</p>
+
+    <hr>
+
+    <blockquote>
+        <strong>Third Step Is About Leveling Up Your ID</strong>
+    </blockquote>
+    <p>Each Sinner has different skills. Some of them are almost the same as their counterpart. From Lv 1, they will do less damage and have low clash power, but the more levels they gain, the more damage and clash power they get (this works with Evade too).</p>
+
+    <blockquote>
+        <strong>How to gain EXP?</strong>
+    </blockquote>
+    <p>Well, you are gonna need at least some Enkephalin Modules. It requires 3 to do a 100% run and 6 to skip (but gives 50%).</p>
+
+    <hr>
+
+    <blockquote>
+        <strong>Events</strong>
+    </blockquote>
+    <p>They are unique events that the game has. Sometimes they rerun those events. In the event, you can grind for some good rewards. You can get a 20x pull and a 000 ID for 1000P.</p>
+
+    <hr>
+
+    <blockquote>
+        <strong>End Game (MDE)</strong>
+    </blockquote>
+    <p>On the end-game phase, mostly while waiting for a new Canto, you might have some IDs with Uptie IV and one or all E.G.O on max uptie too. During this phase, what you need to do is grind MD, MDI (Infinity), or MDE (EXTREME).</p>
+    <p>Hidden bosses can also be found on MDE. They are kinda hard, but their gifts are good.</p>
+
+    <hr>
+
+    <blockquote>
+        <strong>Thats All See ya!</strong>
+    </blockquote>
+
+</body>
+</html>
