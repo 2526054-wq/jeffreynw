@@ -1,115 +1,65 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Limbus Company Guide For Dummies</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #1a1a1a;
-            color: #e0e0e0;
-        }
-        h1 {
-            color: #ff4500;
-            border-bottom: 2px solid #ff4500;
-            padding-bottom: 10px;
-        }
-        h2 {
-            color: #d3d3d3;
-            margin-top: 30px;
-        }
-        blockquote {
-            background-color: #2a2a2a;
-            border-left: 5px solid #ff4500;
-            padding: 10px 20px;
-            margin: 15px 0;
-            font-style: italic;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-        .highlight {
-            color: #ffd700;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
+# jeffreynw
+**Limbus Company Guide For Dummies**  
+You can also buy to play *Library Of Ruina* or *Lobotomy Corporation* if you wanted to (cost).
 
-    <h1># jeffreynw</h1>
-    <p class="highlight">Limbus Company Guide For Dummies</p>
-    <p>You can also buy to play <em>Library Of Ruina</em> or <em>Lobotomy Corporation</em> if you wanted to (cost).</p>
+---
 
-    <hr>
+> **First Step is to understand how the game works**
+>
+> You need to understand the game mechanic. Remember to read the enemy passive before doing clashes. It can help a lot even on Mirror Dungeon, Railway, and Story. You are definitely gonna do this if you get stuck on Canto IV (4-48).
 
-    <blockquote>
-        <strong>First Step is to understand how the game works</strong>
-    </blockquote>
-    <p>You need to understand the game mechanic. Remember to read the enemy passive before doing clashes. It can help a lot even on Mirror Dungeon, Railway, and Story. You are definitely gonna do this if you get stuck on Canto IV (4-48).</p>
+---
 
-    <hr>
+> **Uptie an ID**
+>
+> On this phase, you need to uptie any ID (0 | 00 | 000). On Uptie III, you unlocked their S3 and S3-2 with the exception of Big Brother Heathcliff—you are gonna need Uptie IV for his S3-2 (TOTAL AND COMPLETE EXTERMINATION).
+>
+> Any ID that is 00 is good, but some of them are bad. 000 is also mostly good, but some of them will become useless soon (for example: Sunshower Heathcliff).
+>
+> E.G.O also works like an ID, but you are gonna need to use some skills until the requirements are met. They can also corrode, which costs 1.4 times more, and they can do less or more damage. E.G.O classes range from ZAYIN, TETH, HE, WAW, to ALEPH.
+>
+> Now there are a lot of TETH/HE E.G.O. WAW are usually from seasons or events, and some E.G.O can only be obtained from events (for example: Tidal Wave Ishmael HE E.G.O, which is a collaboration E.G.O with Arknights. Now you can get it along with 3 more E.G.O for Hong Lu, Faust, and Gregor).
+>
+> Some E.G.O can be used for healing, shields, or debuffs.
 
-    <blockquote>
-        <strong>Uptie an ID</strong>
-    </blockquote>
-    <p>On this phase, you need to uptie any ID (0 | 00 | 000). On Uptie III, you unlocked their S3 and S3-2 with the exception of Big Brother Heathcliff—you are gonna need Uptie IV for his S3-2 (TOTAL AND COMPLETE EXTERMINATION).</p>
-    <p>Any ID that is 00 is good, but some of them are bad. 000 is also mostly good, but some of them will become useless soon (for example: Sunshower Heathcliff).</p>
-    <p>E.G.O also works like an ID, but you are gonna need to use some skills until the requirements are met. They can also corrode, which costs 1.4 times more, and they can do less or more damage. E.G.O classes range from ZAYIN, TETH, HE, WAW, to ALEPH.</p>
-    <p>Now there are a lot of TETH/HE E.G.O. WAW are usually from seasons or events, and some E.G.O can only be obtained from events (for example: Tidal Wave Ishmael HE E.G.O, which is a collaboration E.G.O with Arknights. Now you can get it along with 3 more E.G.O for Hong Lu, Faust, and Gregor).</p>
-    <p>Some E.G.O can be used for healing, shields, or debuffs.</p>
+---
 
-    <hr>
+> **Second Step Is About Coins**
+>
+> What are coins? They are the RNG used to clash enemies. There are 2 coins that can be used by an ID, which are normal and red (unbreakable).
 
-    <blockquote>
-        <strong>Second Step Is About Coins</strong>
-    </blockquote>
-    <p>What are coins? They are the RNG used to clash enemies. There are 2 coins that can be used by an ID, which are normal and red (unbreakable).</p>
-    
-    <blockquote>
-        <strong>How does it work?</strong>
-    </blockquote>
-    <p>For the normal one, it can roll Heads, which doubles the power from 10 &gt; 14. The more coins it has, the better. For example, an S3 has 4 coins and it has 10 base power; after it rolls 4 Heads, it becomes 23 power, which can win most clashes. However, they can break if the enemy has more clash power.</p>
-    <p>If it is an unbreakable coin, it works the same as a normal one, but it cannot break. They also reuse the skill if they fail to win a clash. The most red coins available is 9, which belongs to S3-2 Index NurseFather Yi-Sang, and for the enemy, it is Lei Heng (count does not count).</p>
-    <p>There are also special coins like purple and green. What do they do? Purple can erase a red coin, while the green one gets more clash power the more red coins its enemy has.</p>
+> **How does it work?**
+>
+> For the normal one, it can roll Heads, which doubles the power from 10 > 14. The more coins it has, the better. For example, an S3 has 4 coins and it has 10 base power; after it rolls 4 Heads, it becomes 23 power, which can win most clashes. However, they can break if the enemy has more clash power.
+>
+> If it is an unbreakable coin, it works the same as a normal one, but it cannot break. They also reuse the skill if they fail to win a clash. The most red coins available is 9, which belongs to S3-2 Index NurseFather Yi-Sang, and for the enemy, it is Lei Heng (count does not count).
+>
+> There are also special coins like purple and green. What do they do? Purple can erase a red coin, while the green one gets more clash power the more red coins its enemy has.
 
-    <hr>
+---
 
-    <blockquote>
-        <strong>Third Step Is About Leveling Up Your ID</strong>
-    </blockquote>
-    <p>Each Sinner has different skills. Some of them are almost the same as their counterpart. From Lv 1, they will do less damage and have low clash power, but the more levels they gain, the more damage and clash power they get (this works with Evade too).</p>
+> **Third Step Is About Leveling Up Your ID**
+>
+> Each Sinner has different skills. Some of them are almost the same as their counterpart. From Lv 1, they will do less damage and have low clash power, but the more levels they gain, the more damage and clash power they get (this works with Evade too).
 
-    <blockquote>
-        <strong>How to gain EXP?</strong>
-    </blockquote>
-    <p>Well, you are gonna need at least some Enkephalin Modules. It requires 3 to do a 100% run and 6 to skip (but gives 50%).</p>
+> **How to gain EXP?**
+>
+> Well, you are gonna need at least some Enkephalin Modules. It requires 3 to do a 100% run and 6 to skip (but gives 50%).
 
-    <hr>
+---
 
-    <blockquote>
-        <strong>Events</strong>
-    </blockquote>
-    <p>They are unique events that the game has. Sometimes they rerun those events. In the event, you can grind for some good rewards. You can get a 20x pull and a 000 ID for 1000P.</p>
+> **Events**
+>
+> They are unique events that the game has. Sometimes they rerun those events. In the event, you can grind for some good rewards. You can get a 20x pull and a 000 ID for 1000P.
 
-    <hr>
+---
 
-    <blockquote>
-        <strong>End Game (MDE)</strong>
-    </blockquote>
-    <p>On the end-game phase, mostly while waiting for a new Canto, you might have some IDs with Uptie IV and one or all E.G.O on max uptie too. During this phase, what you need to do is grind MD, MDI (Infinity), or MDE (EXTREME).</p>
-    <p>Hidden bosses can also be found on MDE. They are kinda hard, but their gifts are good.</p>
+> **End Game (MDE)**
+>
+> On the end-game phase, mostly while waiting for a new Canto, you might have some IDs with Uptie IV and one or all E.G.O on max uptie too. During this phase, what you need to do is grind MD, MDI (Infinity), or MDE (EXTREME).
+>
+> Hidden bosses can also be found on MDE. They are kinda hard, but their gifts are good.
 
-    <hr>
+---
 
-    <blockquote>
-        <strong>Thats All See ya!</strong>
-    </blockquote>
-
-</body>
-</html>
+> **Thats All See ya!**
